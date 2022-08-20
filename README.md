@@ -1,0 +1,2 @@
+# TemelKavramlarveDegiskenler
+Ödev Listesi
